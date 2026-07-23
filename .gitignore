@@ -1,0 +1,24 @@
+# Gradle / build  
+.gradle/  
+build/  
+out/  
+run/  
+runs/  
+  
+# 保留 wrapper（CI 需要），不要忽略 gradle-wrapper.jar  
+  
+# IDE  
+.idea/  
+*.iml  
+*.ipr  
+*.iws  
+.eclipse/  
+.settings/  
+.classpath  
+.project  
+bin/  
+.vscode/  
+  
+# OS  
+.DS_Store
+*.py
